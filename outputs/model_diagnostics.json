@@ -1,0 +1,16 @@
+{
+  "training_rows": 5340,
+  "training_matches": 103,
+  "scorer_rows": 222,
+  "scorer_prevalence": 0.04157303370786517,
+  "evaluation_rows": 1607,
+  "evaluation_matches": 31,
+  "max_vif": 47.29477361900316,
+  "max_vif_feature": "expected_minutes",
+  "actual_scorer": [
+    "Ferran TORRES"
+  ],
+  "actual_scorer_rank": 12,
+  "final_actual_score": "Spain 1-0 Argentina after extra time",
+  "final_match_source": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M104-ESP-V-ARG.pdf"
+}
