@@ -1,0 +1,32 @@
+Player,Country,Confederation,Club,Age,Born,Min,MP,Save_Pct,plays_abroad,is_number_one,Stage
+Mahmoud Abunada,Qatar,AFC,1.qa Al Rayyan SC,26,2000,270,3,54.5,False,True,Group stage only
+Benjamin Asare,Ghana,CAF,1.gh Accra Hearts of Oak,33,1992,225,3,80.0,False,True,Group stage only
+Ahmed Basil,Iraq,AFC,1.iq Al-Shorta,29,1996,135,2,42.9,False,True,Group stage only
+Alireza Beiranvand,IR Iran,AFC,1.ir Tractor,33,1992,270,3,83.3,False,True,Group stage only
+Yassine Bounou,Morocco,CAF,1.sa Al-Hilal,35,1991,570,6,70.0,True,True,Knockout
+Mouhib Chamakh,Tunisia,CAF,1.tn Club Africain,24,2001,90,1,16.7,False,False,Group stage only
+Thibaut Courtois,Belgium,UEFA,1.es Real Madrid,34,1992,550,6,70.0,True,True,Knockout
+Max Crocombe,New Zealand,OFC,2.eng Millwall,32,1993,270,3,52.4,True,True,Group stage only
+Mory Diaw,Senegal,CAF,1.fr Le Havre,32,1993,238,3,57.1,True,True,Group stage only
+Matt Freese,USA,CONCACAF,1.us NYCFC,27,1998,360,4,61.5,False,True,Knockout
+Orlando Gill,Paraguay,CONMEBOL,1.py San Lorenzo,26,2000,480,5,79.3,False,True,Knockout
+Jalal Hassan,Iraq,AFC,1.iq Al-Zawra'a SC,35,1991,135,2,50.0,False,True,Group stage only
+Gregor Kobel,Switzerland,UEFA,1.de Dortmund,28,1997,600,6,76.9,True,True,Knockout
+Senne Lammens,Belgium,UEFA,1.eng Manchester Utd,23,2002,20,1,66.7,True,False,Group stage only
+Mike Maignan,France,UEFA,1.it Milan,30,1995,720,8,54.5,True,True,Knockout
+Édouard Mendy,Senegal,CAF,1.sa Al-Ahli,34,1992,152,2,57.1,True,False,Group stage only
+Lionel Mpasi,Congo DR,CAF,1.fr Le Havre,31,1994,360,4,73.7,True,True,Knockout
+Abduvohid Nematov,Uzbekistan,AFC,1.uz FC Nasaf,25,2001,180,2,38.5,False,True,Group stage only
+Kristoffer Nordfeldt,Sweden,UEFA,1.se AIK Stockholm,36,1989,180,2,33.3,False,True,Group stage only
+Guillermo Ochoa,Mexico,CONCACAF,1.cy AEL Limassol,40,1985,13,1,,True,False,Group stage only
+Jordan Pickford,England,UEFA,1.eng Everton,32,1994,660,7,65.2,False,True,Knockout
+Raúl Rangel,Mexico,CONCACAF,1.mx Guadalajara,26,2000,437,5,72.7,False,True,Knockout
+Eloy Room,Curaçao,CONCACAF,2.us Miami FC,37,1989,270,3,69.0,True,True,Group stage only
+Alexander Schlager,Austria,UEFA,1.at RB Salzburg,30,1996,360,4,59.1,False,True,Knockout
+Kim Seung-gyu,Korea Republic,AFC,1.jp FC Tokyo,35,1990,270,3,75.0,True,True,Group stage only
+Unai Simón,Spain,UEFA,1.es Athletic Club,29,1997,750,8,90.9,False,True,Knockout
+Matt Turner,USA,CONCACAF,1.us NE Revolution,31,1994,90,1,0.0,False,False,Group stage only
+Nikola Vasilj,Bosnia–Herz,UEFA,1.de St Pauli,30,1995,360,4,42.9,True,True,Knockout
+Vozinha,Cabo Verde,CAF,2.pt Chaves,40,1986,390,4,78.3,True,True,Knockout
+Ronwen Williams,South Africa,CAF,1.za Sundowns,34,1992,360,4,73.3,False,True,Knockout
+Luca Zidane,Algeria,CAF,2.es Granada,28,1998,270,3,57.1,True,True,Group stage only

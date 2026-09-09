@@ -1,0 +1,4 @@
+Task,Variable,Sampling,n,Mean,SD,95% CI,Test,t,p,Cohen's d,Decision at 5%
+1. Shot-stopping efficiency,Save percentage (%),Stratified random (by stage),36,63.64,15.35,"[58.45, 68.84]",Two-sample Welch t-test (knockout vs group only),2.939,0.0064,0.98,Reject H0
+2. Defensive workload,Shots on target faced per 90,Simple random,40,4.63,2.15,"[3.94, 5.32]",Two-sample Welch t-test (UEFA/CONMEBOL vs rest),-1.424,0.1662,-0.46,Fail to reject H0
+3. Age / career-stage profile,Age (years),Systematic random,31,31.13,4.39,"[29.52, 32.74]",One-sample t-test (mu0 = 27 years),5.24,1.2e-05,0.94,Reject H0
