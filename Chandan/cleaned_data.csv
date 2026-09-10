@@ -1,0 +1,209 @@
+match_id,date,stage_id,team_id,opponent_id,goals_for,goals_against,xg,xg_against,result_type,is_home,possession_pct,total_shots,shots_on_target,corners,fouls,offsides,saves,data_source,team_name,confederation,opponent_name,stage_name,is_knockout,result,win,outcome,opp_own_goals,goals_from_play,conversion_rate
+1,2026-06-11,1,1,2,2,0,1.84,0.52,Regular,1,57,16,4,6,11,2,1,fifa.com,Mexico,CONCACAF,South Africa,Group Stage,False,W,1,Win,0,2,12.5
+2,2026-06-11,1,3,4,2,1,1.45,1.12,Regular,1,54,12,5,4,10,1,2,sofascore.com,South Korea,AFC,Czechia,Group Stage,False,W,1,Win,0,2,16.666666666666664
+3,2026-06-12,1,5,6,1,1,1.35,0.98,Regular,1,52,13,4,9,12,2,3,fifa.com,Canada,CONCACAF,Bosnia and Herzegovina,Group Stage,False,D,0,Not win,0,1,7.6923076923076925
+4,2026-06-12,1,13,14,4,1,2.76,0.88,Regular,1,59,16,6,3,13,2,1,fifa.com,USA,CONCACAF,Paraguay,Group Stage,False,W,1,Win,1,3,18.75
+5,2026-06-13,1,7,8,1,1,0.78,1.54,Regular,1,28,6,3,3,12,1,4,fifa.com,Qatar,AFC,Switzerland,Group Stage,False,D,0,Not win,1,0,0.0
+6,2026-06-13,1,9,10,1,1,1.62,1.1,Regular,1,55,12,5,6,16,0,3,fifa.com,Brazil,CONMEBOL,Morocco,Group Stage,False,D,0,Not win,0,1,8.333333333333332
+7,2026-06-13,1,11,12,0,1,1.25,0.65,Regular,1,44,14,1,5,12,2,5,sofascore.com,Haiti,CONCACAF,Scotland,Group Stage,False,L,0,Not win,0,0,0.0
+8,2026-06-13,1,15,16,2,0,1.48,0.72,Regular,1,27,9,4,5,12,1,2,fifa.com,Australia,AFC,Türkiye,Group Stage,False,W,1,Win,0,2,22.22222222222222
+9,2026-06-14,1,17,18,7,1,4.82,0.44,Regular,1,63,25,12,8,10,1,1,sofascore.com,Germany,UEFA,Curaçao,Group Stage,False,W,1,Win,0,7,28.000000000000004
+10,2026-06-14,1,21,22,2,2,1.95,1.82,Regular,1,61,10,5,5,7,2,3,fifa.com,Netherlands,UEFA,Japan,Group Stage,False,D,0,Not win,0,2,20.0
+11,2026-06-14,1,19,20,1,0,1.1,0.95,Regular,1,41,15,4,3,12,2,3,fifa.com,Côte d'Ivoire,CAF,Ecuador,Group Stage,False,W,1,Win,0,1,6.666666666666667
+12,2026-06-14,1,23,24,5,1,3.12,0.78,Regular,1,49,13,7,4,10,3,1,fifa.com,Sweden,UEFA,Tunisia,Group Stage,False,W,1,Win,0,5,38.46153846153847
+13,2026-06-15,1,29,30,0,0,2.15,0.35,Regular,1,74,23,8,11,10,2,6,fifa.com,Spain,UEFA,Cabo Verde,Group Stage,False,D,0,Not win,0,0,0.0
+14,2026-06-15,1,25,26,1,1,1.58,1.12,Regular,1,57,15,3,2,15,0,2,fifa.com,Belgium,UEFA,Egypt,Group Stage,False,D,0,Not win,1,0,0.0
+15,2026-06-15,1,31,32,1,1,0.85,1.76,Regular,1,27,7,3,4,11,2,8,fifa.com,Saudi Arabia,AFC,Uruguay,Group Stage,False,D,0,Not win,0,1,14.285714285714285
+16,2026-06-15,1,27,28,2,2,1.88,1.2,Regular,1,43,17,4,4,10,2,5,fifa.com,IR Iran,AFC,New Zealand,Group Stage,False,D,0,Not win,0,2,11.76470588235294
+17,2026-06-16,1,33,34,3,1,2.44,1.05,Regular,1,49,11,8,6,5,2,2,fifa.com,France,UEFA,Senegal,Group Stage,False,W,1,Win,0,3,27.27272727272727
+18,2026-06-16,1,35,36,1,4,0.68,2.85,Regular,1,34,11,1,5,12,1,7,fifa.com,Iraq,AFC,Norway,Group Stage,False,L,0,Not win,0,1,9.090909090909092
+19,2026-06-16,1,37,38,3,0,2.65,0.42,Regular,1,49,10,6,2,13,3,1,fifa.com,Argentina,CONMEBOL,Algeria,Group Stage,False,W,1,Win,0,3,30.0
+20,2026-06-16,1,39,40,3,1,1.98,0.88,Regular,1,53,10,4,4,12,3,1,fifa.com,Austria,UEFA,Jordan,Group Stage,False,W,1,Win,1,2,20.0
+21,2026-06-17,1,41,42,1,1,1.78,1.15,Regular,1,68,7,1,5,9,3,5,fifa.com,Portugal,UEFA,Congo DR,Group Stage,False,D,0,Not win,0,1,14.285714285714285
+22,2026-06-17,1,45,46,4,2,2.92,1.64,Regular,1,48,22,11,8,10,2,4,fifa.com,England,UEFA,Croatia,Group Stage,False,W,1,Win,0,4,18.181818181818183
+23,2026-06-17,1,47,48,1,0,1.3,0.75,Regular,1,35,7,2,2,9,1,5,fifa.com,Ghana,CAF,Panama,Group Stage,False,W,1,Win,0,1,14.285714285714285
+24,2026-06-17,1,43,44,1,3,0.95,2.1,Regular,1,33,8,2,3,14,2,6,fifa.com,Uzbekistan,AFC,Colombia,Group Stage,False,L,0,Not win,0,1,12.5
+25,2026-06-18,1,1,3,1,0,1.62,0.58,Regular,1,49,8,4,0,9,1,2,fifa.com,Mexico,CONCACAF,South Korea,Group Stage,False,W,1,Win,0,1,12.5
+26,2026-06-18,1,4,2,1,1,1.35,1.15,Regular,1,32,14,3,5,12,1,3,fifa.com,Czechia,UEFA,South Africa,Group Stage,False,D,0,Not win,0,1,7.142857142857142
+27,2026-06-18,1,5,7,6,0,3.82,0.22,Regular,1,65,33,11,19,9,3,0,fifa.com,Canada,CONCACAF,Qatar,Group Stage,False,W,1,Win,1,5,15.151515151515152
+28,2026-06-18,1,8,6,4,1,2.45,0.88,Regular,1,57,13,7,7,7,2,1,fifa.com,Switzerland,UEFA,Bosnia and Herzegovina,Group Stage,False,W,1,Win,0,4,30.76923076923077
+29,2026-06-19,1,9,11,3,0,1.16,0.9,Regular,1,59,14,6,5,10,2,0,sofascore.com,Brazil,CONMEBOL,Haiti,Group Stage,False,W,1,Win,0,3,21.428571428571427
+30,2026-06-19,1,12,10,0,1,0.97,0.54,Regular,1,41,6,0,2,12,1,2,sofascore.com,Scotland,UEFA,Morocco,Group Stage,False,L,0,Not win,0,0,0.0
+31,2026-06-19,1,13,15,2,0,1.21,0.32,Regular,1,55,10,2,7,12,1,1,fifa.com,USA,CONCACAF,Australia,Group Stage,False,W,1,Win,1,1,10.0
+32,2026-06-19,1,16,14,0,1,0.4,0.3,Regular,1,67,32,5,12,14,2,2,fifa.com,Türkiye,UEFA,Paraguay,Group Stage,False,L,0,Not win,0,0,0.0
+33,2026-06-20,1,17,19,2,1,1.85,0.72,Regular,1,59,16,8,8,7,1,2,fifa.com,Germany,UEFA,Côte d'Ivoire,Group Stage,False,W,1,Win,0,2,12.5
+34,2026-06-20,1,20,18,0,0,1.92,0.08,Regular,1,63,28,15,9,12,0,15,fifa.com,Ecuador,CONMEBOL,Curaçao,Group Stage,False,D,0,Not win,0,0,0.0
+35,2026-06-20,1,21,23,5,1,3.45,0.88,Regular,1,48,10,7,7,11,2,2,fifa.com,Netherlands,UEFA,Sweden,Group Stage,False,W,1,Win,0,5,50.0
+36,2026-06-20,1,24,22,0,4,0.35,3.12,Regular,1,38,3,1,3,8,2,1,fifa.com,Tunisia,CAF,Japan,Group Stage,False,L,0,Not win,0,0,0.0
+37,2026-06-21,1,25,27,0,0,1.45,0.62,Regular,1,59,23,8,4,7,1,2,fifa.com,Belgium,UEFA,IR Iran,Group Stage,False,D,0,Not win,0,0,0.0
+38,2026-06-21,1,28,26,1,3,0.55,2.15,Regular,1,39,11,3,4,14,2,4,fifa.com,New Zealand,OFC,Egypt,Group Stage,False,L,0,Not win,0,1,9.090909090909092
+39,2026-06-21,1,29,31,4,0,3.28,0.25,Regular,1,67,18,8,6,6,3,1,fifa.com,Spain,UEFA,Saudi Arabia,Group Stage,False,W,1,Win,1,3,16.666666666666664
+40,2026-06-21,1,32,30,2,2,1.65,1.1,Regular,1,65,17,7,11,11,2,2,fifa.com,Uruguay,CONMEBOL,Cabo Verde,Group Stage,False,D,0,Not win,0,2,11.76470588235294
+41,2026-06-22,1,33,35,3,0,2.21,0.45,Regular,1,56,19,5,4,8,2,0,fifa.com,France,UEFA,Iraq,Group Stage,False,W,1,Win,0,3,15.789473684210526
+42,2026-06-22,1,36,34,3,2,1.95,1.48,Regular,1,52,12,6,5,13,1,2,fifa.com,Norway,UEFA,Senegal,Group Stage,False,W,1,Win,0,3,25.0
+43,2026-06-22,1,37,39,2,0,1.78,0.55,Regular,1,54,12,5,1,13,2,1,fifa.com,Argentina,CONMEBOL,Austria,Group Stage,False,W,1,Win,0,2,16.666666666666664
+44,2026-06-22,1,40,38,1,2,0.88,1.92,Regular,1,29,6,2,2,12,1,4,fifa.com,Jordan,AFC,Algeria,Group Stage,False,L,0,Not win,0,1,16.666666666666664
+45,2026-06-23,1,41,43,5,0,3.54,0.42,Regular,1,62,18,8,7,10,1,1,fifa.com,Portugal,UEFA,Uzbekistan,Group Stage,False,W,1,Win,1,4,22.22222222222222
+46,2026-06-23,1,44,42,1,0,1.62,0.58,Regular,1,58,14,4,5,11,2,2,fifa.com,Colombia,CONMEBOL,Congo DR,Group Stage,False,W,1,Win,0,1,7.142857142857142
+47,2026-06-23,1,45,47,0,0,1.12,0.89,Regular,1,59,11,3,6,8,2,2,fifa.com,England,UEFA,Ghana,Group Stage,False,D,0,Not win,0,0,0.0
+48,2026-06-23,1,48,46,0,1,0.42,1.48,Regular,1,44,7,1,2,14,2,3,fifa.com,Panama,CONCACAF,Croatia,Group Stage,False,L,0,Not win,0,0,0.0
+49,2026-06-24,1,4,1,0,3,1.1,1.27,Regular,1,50,13,1,5,9,2,2,sofascore.com,Czechia,UEFA,Mexico,Group Stage,False,L,0,Not win,0,0,0.0
+50,2026-06-24,1,2,3,1,0,1.26,1.39,Regular,1,32,13,4,3,12,1,3,fifa.com,South Africa,CAF,South Korea,Group Stage,False,W,1,Win,0,1,7.6923076923076925
+51,2026-06-24,1,8,5,2,1,0.71,1.35,Regular,1,55,6,4,2,15,0,6,fifa.com,Switzerland,UEFA,Canada,Group Stage,False,W,1,Win,0,2,33.33333333333333
+52,2026-06-24,1,6,7,3,1,1.48,0.95,Regular,1,54,14,5,5,9,1,2,fifa.com,Bosnia and Herzegovina,UEFA,Qatar,Group Stage,False,W,1,Win,1,2,14.285714285714285
+53,2026-06-25,1,12,9,0,3,0.45,2.18,Regular,1,35,6,2,2,12,1,6,sofascore.com,Scotland,UEFA,Brazil,Group Stage,False,L,0,Not win,0,0,0.0
+54,2026-06-25,1,10,11,4,2,2.35,1.12,Regular,1,62,21,9,7,10,3,3,sofascore.com,Morocco,CAF,Haiti,Group Stage,False,W,1,Win,0,4,19.047619047619047
+55,2026-06-25,1,16,13,3,2,1.62,1.45,Regular,1,48,14,7,4,11,2,3,sofascore.com,Türkiye,UEFA,USA,Group Stage,False,W,1,Win,0,3,21.428571428571427
+56,2026-06-25,1,14,15,0,0,0.55,0.48,Regular,1,44,8,2,1,9,0,6,fifa.com,Paraguay,CONMEBOL,Australia,Group Stage,False,D,0,Not win,0,0,0.0
+57,2026-06-26,1,20,17,2,1,1.28,1.55,Regular,1,44,11,5,3,13,1,6,sofascore.com,Ecuador,CONMEBOL,Germany,Group Stage,False,W,1,Win,0,2,18.181818181818183
+58,2026-06-26,1,18,19,0,2,0.32,1.68,Regular,1,41,7,2,2,14,1,5,sofascore.com,Curaçao,CONCACAF,Côte d'Ivoire,Group Stage,False,L,0,Not win,0,0,0.0
+59,2026-06-26,1,24,21,1,3,0.62,2.15,Regular,1,38,8,3,2,12,1,6,sofascore.com,Tunisia,CAF,Netherlands,Group Stage,False,L,0,Not win,0,1,12.5
+60,2026-06-26,1,22,23,1,1,1.12,0.95,Regular,1,51,13,5,5,9,2,3,sofascore.com,Japan,AFC,Sweden,Group Stage,False,D,0,Not win,0,1,7.6923076923076925
+61,2026-06-27,1,28,25,1,5,0.48,3.25,Regular,1,35,6,2,2,10,1,7,sofascore.com,New Zealand,OFC,Belgium,Group Stage,False,L,0,Not win,0,1,16.666666666666664
+62,2026-06-27,1,26,27,1,1,0.85,0.92,Regular,1,47,11,4,4,12,1,3,sofascore.com,Egypt,CAF,IR Iran,Group Stage,False,D,0,Not win,0,1,9.090909090909092
+63,2026-06-27,1,32,29,0,1,0.78,1.35,Regular,1,42,10,3,3,13,2,5,sofascore.com,Uruguay,CONMEBOL,Spain,Group Stage,False,L,0,Not win,0,0,0.0
+64,2026-06-27,1,30,31,0,0,0.42,0.38,Regular,1,51,15,3,4,10,2,3,fifa.com,Cabo Verde,CAF,Saudi Arabia,Group Stage,False,D,0,Not win,0,0,0.0
+65,2026-06-26,1,36,33,1,4,1.3,0.96,Regular,1,47,9,5,3,8,0,4,sofascore.com,Norway,UEFA,France,Group Stage,False,L,0,Not win,0,1,11.11111111111111
+66,2026-06-26,1,34,35,5,0,3.01,0.14,Regular,1,69,28,12,12,10,1,1,sofascore.com,Senegal,CAF,Iraq,Group Stage,False,W,1,Win,0,5,17.857142857142858
+67,2026-06-27,1,40,37,1,3,0.76,2.13,Regular,1,27,5,1,2,13,1,1,sofascore.com,Jordan,AFC,Argentina,Group Stage,False,L,0,Not win,0,1,20.0
+68,2026-06-27,1,38,39,3,3,1.62,1.44,Regular,1,50,12,5,0,3,1,0,sofascore.com,Algeria,CAF,Austria,Group Stage,False,D,0,Not win,0,3,25.0
+69,2026-06-28,1,44,41,0,0,1.62,0.73,Regular,1,55,24,6,5,12,3,2,sofascore.com,Colombia,CONMEBOL,Portugal,Group Stage,False,D,0,Not win,0,0,0.0
+70,2026-06-28,1,42,43,3,1,2.35,0.2,Regular,1,64,19,4,2,6,3,1,sofascore.com,Congo DR,CAF,Uzbekistan,Group Stage,False,W,1,Win,0,3,15.789473684210526
+71,2026-06-28,1,48,45,0,2,0.69,1.39,Regular,1,33,13,2,3,16,4,4,sofascore.com,Panama,CONCACAF,England,Group Stage,False,L,0,Not win,0,0,0.0
+72,2026-06-28,1,46,47,2,1,0.42,0.74,Regular,1,53,8,4,3,9,1,0,sofascore.com,Croatia,UEFA,Ghana,Group Stage,False,W,1,Win,0,2,25.0
+73,2026-06-29,2,2,5,0,1,0.13,1.32,Regular,1,58,6,1,1,10,1,6,sofascore.com,South Africa,CAF,Canada,Round of 32,True,L,0,Not win,0,0,0.0
+74,2026-06-29,2,9,22,2,1,1.69,0.23,Regular,1,69,19,7,6,4,1,1,sofascore.com,Brazil,CONMEBOL,Japan,Round of 32,True,W,1,Win,0,2,10.526315789473683
+75,2026-06-30,2,17,14,1,1,0.72,0.42,Penalties,1,76,21,6,16,18,4,2,sofascore.com,Germany,UEFA,Paraguay,Round of 32,True,D,0,Not win,0,1,4.761904761904762
+76,2026-06-30,2,21,10,1,1,0.23,1.4,Penalties,1,30,6,2,5,18,3,5,sofascore.com,Netherlands,UEFA,Morocco,Round of 32,True,D,0,Not win,0,1,16.666666666666664
+77,2026-06-30,2,19,36,1,2,1.15,2.02,Regular,1,52,14,5,14,6,2,1,sofascore.com,Côte d'Ivoire,CAF,Norway,Round of 32,True,L,0,Not win,0,1,7.142857142857142
+78,2026-07-01,2,33,23,3,0,3.17,0.67,Regular,1,61,25,12,9,14,3,3,sofascore.com,France,UEFA,Sweden,Round of 32,True,W,1,Win,0,3,12.0
+79,2026-07-01,2,1,20,2,0,1.02,0.73,Regular,1,37,15,3,3,10,0,1,sofascore.com,Mexico,CONCACAF,Ecuador,Round of 32,True,W,1,Win,0,2,13.333333333333334
+80,2026-07-01,2,45,42,2,1,2.04,0.76,Regular,1,60,16,7,5,10,0,1,sofascore.com,England,UEFA,Congo DR,Round of 32,True,W,1,Win,0,2,12.5
+81,2026-07-02,2,25,34,3,2,1.74,3.58,AET,1,52,19,5,4,22,2,3,sofascore.com,Belgium,UEFA,Senegal,Round of 32,True,W,1,Win,0,3,15.789473684210526
+82,2026-07-02,2,13,6,2,0,0.92,0.25,Regular,1,48,8,2,4,7,3,3,sofascore.com,USA,CONCACAF,Bosnia and Herzegovina,Round of 32,True,W,1,Win,0,2,25.0
+83,2026-07-03,2,29,39,3,0,2.84,0.32,Regular,1,64,23,10,9,8,2,0,sofascore.com,Spain,UEFA,Austria,Round of 32,True,W,1,Win,0,3,13.043478260869565
+84,2026-07-03,2,41,46,2,1,2.18,1.34,Regular,1,62,15,3,9,6,1,6,sofascore.com,Portugal,UEFA,Croatia,Round of 32,True,W,1,Win,0,2,13.333333333333334
+85,2026-07-03,2,8,38,2,0,2.52,0.73,Regular,1,45,11,5,4,10,0,2,sofascore.com,Switzerland,UEFA,Algeria,Round of 32,True,W,1,Win,0,2,18.181818181818183
+86,2026-07-04,2,15,26,1,1,0.87,1.36,Penalties,1,42,11,3,4,14,2,4,sofascore.com,Australia,AFC,Egypt,Round of 32,True,D,0,Not win,1,0,0.0
+87,2026-07-04,2,37,30,3,2,2.16,0.46,AET,1,64,22,11,8,9,3,3,sofascore.com,Argentina,CONMEBOL,Cabo Verde,Round of 32,True,W,1,Win,1,2,9.090909090909092
+88,2026-07-04,2,44,47,1,0,2.19,0.26,Regular,1,61,20,8,3,13,2,0,sofascore.com,Colombia,CONMEBOL,Ghana,Round of 32,True,W,1,Win,0,1,5.0
+89,2026-07-04,3,14,33,0,1,0.3,1.8,Regular,1,24,5,1,2,13,0,4,sofascore.com,Paraguay,CONMEBOL,France,Round of 16,True,L,0,Not win,0,0,0.0
+90,2026-07-04,3,5,10,0,3,0.8,1.2,Regular,1,37,10,3,7,24,2,1,sofascore.com,Canada,CONCACAF,Morocco,Round of 16,True,L,0,Not win,0,0,0.0
+91,2026-07-05,3,9,36,1,2,2.61,1.05,Regular,1,34,14,4,5,7,1,3,sofascore.com,Brazil,CONMEBOL,Norway,Round of 16,True,L,0,Not win,0,1,7.142857142857142
+92,2026-07-06,3,1,45,2,3,1.88,1.61,Regular,1,67,20,5,12,14,1,2,sofascore.com,Mexico,CONCACAF,England,Round of 16,True,L,0,Not win,0,2,10.0
+93,2026-07-06,3,41,29,0,1,0.85,1.42,Regular,1,44,8,3,4,11,1,4,sofascore.com,Portugal,UEFA,Spain,Round of 16,True,L,0,Not win,0,0,0.0
+94,2026-07-07,3,13,25,1,4,1.05,2.3,Regular,1,42,10,3,5,12,1,3,sofascore.com,USA,CONCACAF,Belgium,Round of 16,True,L,0,Not win,0,1,10.0
+95,2026-07-07,3,37,26,3,2,2.15,1.1,Regular,1,61,16,7,8,8,2,2,sofascore.com,Argentina,CONMEBOL,Egypt,Round of 16,True,W,1,Win,0,3,18.75
+96,2026-07-07,3,8,44,0,0,0.7,0.85,Regular,1,48,11,3,5,13,1,3,sofascore.com,Switzerland,UEFA,Colombia,Round of 16,True,D,0,Not win,0,0,0.0
+97,2026-07-09,4,33,10,2,0,1.8,0.45,Regular,1,59,14,6,7,10,1,2,sofascore.com,France,UEFA,Morocco,Quarter-finals,True,W,1,Win,0,2,14.285714285714285
+98,2026-07-10,4,29,25,2,1,1.9,1.15,Regular,1,57,16,7,8,9,2,3,sofascore.com,Spain,UEFA,Belgium,Quarter-finals,True,W,1,Win,0,2,12.5
+99,2026-07-11,4,36,45,1,2,0.77,0.96,AET,1,42,9,3,4,12,1,4,sofascore.com,Norway,UEFA,England,Quarter-finals,True,L,0,Not win,0,1,11.11111111111111
+100,2026-07-12,4,37,8,3,1,2.0,0.53,AET,1,63,18,8,7,9,3,2,sofascore.com,Argentina,CONMEBOL,Switzerland,Quarter-finals,True,W,1,Win,0,3,16.666666666666664
+101,2026-07-14,5,33,29,0,2,0.3,1.63,Regular,1,41,8,2,3,11,0,4,sofascore.com,France,UEFA,Spain,Semi-finals,True,L,0,Not win,0,0,0.0
+102,2026-07-15,5,45,37,1,2,0.54,1.8,Regular,1,47,10,4,5,12,1,3,sofascore.com,England,UEFA,Argentina,Semi-finals,True,L,0,Not win,0,1,10.0
+103,2026-07-18,6,33,45,4,6,2.88,2.88,Regular,1,50,18,9,4,9,1,5,sofascore.com,France,UEFA,England,Third-place match,True,L,0,Not win,0,4,22.22222222222222
+104,2026-07-19,7,29,37,1,0,1.42,0.88,AET,1,54,12,5,6,11,2,3,sofascore.com,Spain,UEFA,Argentina,Final,True,W,1,Win,0,1,8.333333333333332
+1,2026-06-11,1,2,1,0,2,0.52,1.84,Regular,0,43,3,2,3,15,1,4,fifa.com,South Africa,CAF,Mexico,Group Stage,False,L,0,Not win,0,0,0.0
+2,2026-06-11,1,4,3,1,2,1.12,1.45,Regular,0,46,10,3,3,13,2,4,sofascore.com,Czechia,UEFA,South Korea,Group Stage,False,L,0,Not win,0,1,10.0
+3,2026-06-12,1,6,5,1,1,0.98,1.35,Regular,0,29,8,3,4,15,1,5,fifa.com,Bosnia and Herzegovina,UEFA,Canada,Group Stage,False,D,0,Not win,0,1,12.5
+4,2026-06-12,1,14,13,1,4,0.88,2.76,Regular,0,28,9,1,1,17,3,9,fifa.com,Paraguay,CONMEBOL,USA,Group Stage,False,L,0,Not win,0,1,11.11111111111111
+5,2026-06-13,1,8,7,1,1,1.54,0.78,Regular,0,58,26,7,10,11,0,2,fifa.com,Switzerland,UEFA,Qatar,Group Stage,False,D,0,Not win,0,1,3.8461538461538463
+6,2026-06-13,1,10,9,1,1,1.1,1.62,Regular,0,45,14,3,2,14,1,4,fifa.com,Morocco,CAF,Brazil,Group Stage,False,D,0,Not win,0,1,7.142857142857142
+7,2026-06-13,1,12,11,1,0,0.65,1.25,Regular,0,56,12,3,6,10,3,2,sofascore.com,Scotland,UEFA,Haiti,Group Stage,False,W,1,Win,0,1,8.333333333333332
+8,2026-06-13,1,16,15,0,2,0.72,1.48,Regular,0,62,30,7,8,4,3,2,fifa.com,Türkiye,UEFA,Australia,Group Stage,False,L,0,Not win,0,0,0.0
+9,2026-06-14,1,18,17,1,7,0.44,4.82,Regular,0,37,8,1,1,12,2,5,sofascore.com,Curaçao,CONCACAF,Germany,Group Stage,False,L,0,Not win,0,1,12.5
+10,2026-06-14,1,22,21,2,2,1.82,1.95,Regular,0,39,9,5,4,7,1,3,fifa.com,Japan,AFC,Netherlands,Group Stage,False,D,0,Not win,0,2,22.22222222222222
+11,2026-06-14,1,20,19,0,1,0.95,1.1,Regular,0,49,12,1,5,14,3,3,fifa.com,Ecuador,CONMEBOL,Côte d'Ivoire,Group Stage,False,L,0,Not win,0,0,0.0
+12,2026-06-14,1,24,23,1,5,0.78,3.12,Regular,0,51,6,2,2,8,1,6,fifa.com,Tunisia,CAF,Sweden,Group Stage,False,L,0,Not win,0,1,16.666666666666664
+13,2026-06-15,1,30,29,0,0,0.35,2.15,Regular,0,26,6,1,1,1,3,7,fifa.com,Cabo Verde,CAF,Spain,Group Stage,False,D,0,Not win,0,0,0.0
+14,2026-06-15,1,26,25,1,1,1.12,1.58,Regular,0,43,14,3,7,15,1,2,fifa.com,Egypt,CAF,Belgium,Group Stage,False,D,0,Not win,0,1,7.142857142857142
+15,2026-06-15,1,32,31,1,1,1.76,0.85,Regular,0,63,27,10,14,6,1,2,fifa.com,Uruguay,CONMEBOL,Saudi Arabia,Group Stage,False,D,0,Not win,0,1,3.7037037037037033
+16,2026-06-15,1,28,27,2,2,1.2,1.88,Regular,0,45,14,8,1,8,1,7,fifa.com,New Zealand,OFC,IR Iran,Group Stage,False,D,0,Not win,0,2,14.285714285714285
+17,2026-06-16,1,34,33,1,3,1.05,2.44,Regular,0,44,6,2,4,9,1,4,fifa.com,Senegal,CAF,France,Group Stage,False,L,0,Not win,0,1,16.666666666666664
+18,2026-06-16,1,36,35,4,1,2.85,0.68,Regular,0,57,11,5,4,13,0,1,fifa.com,Norway,UEFA,Iraq,Group Stage,False,W,1,Win,1,3,27.27272727272727
+19,2026-06-16,1,38,37,0,3,0.42,2.65,Regular,0,51,7,1,2,8,1,4,fifa.com,Algeria,CAF,Argentina,Group Stage,False,L,0,Not win,0,0,0.0
+20,2026-06-16,1,40,39,1,3,0.88,1.98,Regular,0,33,11,3,3,7,1,6,fifa.com,Jordan,AFC,Austria,Group Stage,False,L,0,Not win,0,1,9.090909090909092
+21,2026-06-17,1,42,41,1,1,1.15,1.78,Regular,0,25,8,2,4,10,2,3,fifa.com,Congo DR,CAF,Portugal,Group Stage,False,D,0,Not win,0,1,12.5
+22,2026-06-17,1,46,45,2,4,1.64,2.92,Regular,0,43,10,5,2,12,3,6,fifa.com,Croatia,UEFA,England,Group Stage,False,L,0,Not win,0,2,20.0
+23,2026-06-17,1,48,47,0,1,0.75,1.3,Regular,0,55,11,4,2,11,2,1,fifa.com,Panama,CONCACAF,Ghana,Group Stage,False,L,0,Not win,0,0,0.0
+24,2026-06-17,1,44,43,3,1,2.1,0.95,Regular,0,56,15,4,4,11,1,2,fifa.com,Colombia,CONMEBOL,Uzbekistan,Group Stage,False,W,1,Win,0,3,20.0
+25,2026-06-18,1,3,1,0,1,0.58,1.62,Regular,0,51,9,2,2,7,2,3,fifa.com,South Korea,AFC,Mexico,Group Stage,False,L,0,Not win,0,0,0.0
+26,2026-06-18,1,2,4,1,1,1.15,1.35,Regular,0,60,17,4,5,10,3,4,fifa.com,South Africa,CAF,Czechia,Group Stage,False,D,0,Not win,0,1,5.88235294117647
+27,2026-06-18,1,7,5,0,6,0.22,3.82,Regular,0,20,2,0,1,10,1,9,fifa.com,Qatar,AFC,Canada,Group Stage,False,L,0,Not win,0,0,0.0
+28,2026-06-18,1,6,8,1,4,0.88,2.45,Regular,0,34,5,3,3,17,1,5,fifa.com,Bosnia and Herzegovina,UEFA,Switzerland,Group Stage,False,L,0,Not win,0,1,20.0
+29,2026-06-19,1,11,9,0,3,0.9,1.16,Regular,0,41,4,0,2,12,1,4,sofascore.com,Haiti,CONCACAF,Brazil,Group Stage,False,L,0,Not win,0,0,0.0
+30,2026-06-19,1,10,12,1,0,0.54,0.97,Regular,0,59,12,4,5,10,2,2,sofascore.com,Morocco,CAF,Scotland,Group Stage,False,W,1,Win,0,1,8.333333333333332
+31,2026-06-19,1,15,13,0,2,0.32,1.21,Regular,0,30,5,2,4,16,0,2,fifa.com,Australia,AFC,USA,Group Stage,False,L,0,Not win,0,0,0.0
+32,2026-06-19,1,14,16,1,0,0.3,0.4,Regular,0,19,7,2,0,15,1,4,fifa.com,Paraguay,CONMEBOL,Türkiye,Group Stage,False,W,1,Win,0,1,14.285714285714285
+33,2026-06-20,1,19,17,1,2,0.72,1.85,Regular,0,41,9,3,3,8,2,6,fifa.com,Côte d'Ivoire,CAF,Germany,Group Stage,False,L,0,Not win,0,1,11.11111111111111
+34,2026-06-20,1,18,20,0,0,0.08,1.92,Regular,0,37,5,1,0,14,1,15,fifa.com,Curaçao,CONCACAF,Ecuador,Group Stage,False,D,0,Not win,0,0,0.0
+35,2026-06-20,1,23,21,1,5,0.88,3.45,Regular,0,43,16,8,3,14,3,7,fifa.com,Sweden,UEFA,Netherlands,Group Stage,False,L,0,Not win,0,1,6.25
+36,2026-06-20,1,22,24,4,0,3.12,0.35,Regular,0,62,14,5,5,15,1,1,fifa.com,Japan,AFC,Tunisia,Group Stage,False,W,1,Win,0,4,28.57142857142857
+37,2026-06-21,1,27,25,0,0,0.62,1.45,Regular,0,30,7,2,2,9,3,8,fifa.com,IR Iran,AFC,Belgium,Group Stage,False,D,0,Not win,0,0,0.0
+38,2026-06-21,1,26,28,3,1,2.15,0.55,Regular,0,50,19,7,4,8,1,2,fifa.com,Egypt,CAF,New Zealand,Group Stage,False,W,1,Win,0,3,15.789473684210526
+39,2026-06-21,1,31,29,0,4,0.25,3.28,Regular,0,33,5,1,1,10,2,4,fifa.com,Saudi Arabia,AFC,Spain,Group Stage,False,L,0,Not win,0,0,0.0
+40,2026-06-21,1,30,32,2,2,1.1,1.65,Regular,0,35,12,4,4,4,1,5,fifa.com,Cabo Verde,CAF,Uruguay,Group Stage,False,D,0,Not win,0,2,16.666666666666664
+41,2026-06-22,1,35,33,0,3,0.45,2.21,Regular,0,44,4,0,2,4,1,2,fifa.com,Iraq,AFC,France,Group Stage,False,L,0,Not win,0,0,0.0
+42,2026-06-22,1,34,36,2,3,1.48,1.95,Regular,0,48,10,4,4,5,2,3,fifa.com,Senegal,CAF,Norway,Group Stage,False,L,0,Not win,0,2,20.0
+43,2026-06-22,1,39,37,0,2,0.55,1.78,Regular,0,46,6,1,3,13,1,3,fifa.com,Austria,UEFA,Argentina,Group Stage,False,L,0,Not win,0,0,0.0
+44,2026-06-22,1,38,40,2,1,1.92,0.88,Regular,0,71,18,6,7,9,2,1,fifa.com,Algeria,CAF,Jordan,Group Stage,False,W,1,Win,0,2,11.11111111111111
+45,2026-06-23,1,43,41,0,5,0.42,3.54,Regular,0,38,5,1,2,12,2,3,fifa.com,Uzbekistan,AFC,Portugal,Group Stage,False,L,0,Not win,0,0,0.0
+46,2026-06-23,1,42,44,0,1,0.58,1.62,Regular,0,42,8,2,3,14,1,3,fifa.com,Congo DR,CAF,Colombia,Group Stage,False,L,0,Not win,0,0,0.0
+47,2026-06-23,1,47,45,0,0,0.89,1.12,Regular,0,41,9,2,3,12,1,3,fifa.com,Ghana,CAF,England,Group Stage,False,D,0,Not win,0,0,0.0
+48,2026-06-23,1,46,48,1,0,1.48,0.42,Regular,0,56,15,4,5,10,1,1,fifa.com,Croatia,UEFA,Panama,Group Stage,False,W,1,Win,0,1,6.666666666666667
+49,2026-06-24,1,1,4,3,0,1.27,1.1,Regular,0,50,11,5,1,13,1,1,sofascore.com,Mexico,CONCACAF,Czechia,Group Stage,False,W,1,Win,0,3,27.27272727272727
+50,2026-06-24,1,3,2,0,1,1.39,1.26,Regular,0,68,8,3,6,9,2,3,fifa.com,South Korea,AFC,South Africa,Group Stage,False,L,0,Not win,0,0,0.0
+51,2026-06-24,1,5,8,1,2,1.35,0.71,Regular,0,45,13,7,5,10,3,2,fifa.com,Canada,CONCACAF,Switzerland,Group Stage,False,L,0,Not win,0,1,7.6923076923076925
+52,2026-06-24,1,7,6,1,3,0.95,1.48,Regular,0,46,9,3,5,14,3,3,fifa.com,Qatar,AFC,Bosnia and Herzegovina,Group Stage,False,L,0,Not win,0,1,11.11111111111111
+53,2026-06-25,1,9,12,3,0,2.18,0.45,Regular,0,65,18,9,6,8,3,2,sofascore.com,Brazil,CONMEBOL,Scotland,Group Stage,False,W,1,Win,0,3,16.666666666666664
+54,2026-06-25,1,11,10,2,4,1.12,2.35,Regular,0,38,10,5,3,14,1,5,sofascore.com,Haiti,CONCACAF,Morocco,Group Stage,False,L,0,Not win,1,1,10.0
+55,2026-06-25,1,13,16,2,3,1.45,1.62,Regular,0,52,13,5,6,9,1,4,sofascore.com,USA,CONCACAF,Türkiye,Group Stage,False,L,0,Not win,0,2,15.384615384615385
+56,2026-06-25,1,15,14,0,0,0.48,0.55,Regular,0,56,12,5,3,6,0,3,fifa.com,Australia,AFC,Paraguay,Group Stage,False,D,0,Not win,0,0,0.0
+57,2026-06-26,1,17,20,1,2,1.55,1.28,Regular,0,56,16,7,6,10,2,3,sofascore.com,Germany,UEFA,Ecuador,Group Stage,False,L,0,Not win,0,1,6.25
+58,2026-06-26,1,19,18,2,0,1.68,0.32,Regular,0,59,16,7,6,11,3,2,sofascore.com,Côte d'Ivoire,CAF,Curaçao,Group Stage,False,W,1,Win,0,2,12.5
+59,2026-06-26,1,21,24,3,1,2.15,0.62,Regular,0,62,18,9,7,9,2,2,sofascore.com,Netherlands,UEFA,Tunisia,Group Stage,False,W,1,Win,1,2,11.11111111111111
+60,2026-06-26,1,23,22,1,1,0.95,1.12,Regular,0,49,11,4,4,12,1,4,sofascore.com,Sweden,UEFA,Japan,Group Stage,False,D,0,Not win,0,1,9.090909090909092
+61,2026-06-27,1,25,28,5,1,3.25,0.48,Regular,0,65,22,12,8,7,3,1,sofascore.com,Belgium,UEFA,New Zealand,Group Stage,False,W,1,Win,0,5,22.727272727272727
+62,2026-06-27,1,27,26,1,1,0.92,0.85,Regular,0,53,12,4,4,11,2,3,sofascore.com,IR Iran,AFC,Egypt,Group Stage,False,D,0,Not win,0,1,8.333333333333332
+63,2026-06-27,1,29,32,1,0,1.35,0.78,Regular,0,58,15,6,5,9,1,3,sofascore.com,Spain,UEFA,Uruguay,Group Stage,False,W,1,Win,0,1,6.666666666666667
+64,2026-06-27,1,31,30,0,0,0.38,0.42,Regular,0,49,6,3,2,16,0,6,fifa.com,Saudi Arabia,AFC,Cabo Verde,Group Stage,False,D,0,Not win,0,0,0.0
+65,2026-06-26,1,33,36,4,1,0.96,1.3,Regular,0,53,17,9,5,7,2,4,sofascore.com,France,UEFA,Norway,Group Stage,False,W,1,Win,0,4,23.52941176470588
+66,2026-06-26,1,35,34,0,5,0.14,3.01,Regular,0,31,6,1,3,11,0,7,sofascore.com,Iraq,AFC,Senegal,Group Stage,False,L,0,Not win,0,0,0.0
+67,2026-06-27,1,37,40,3,1,2.13,0.76,Regular,0,73,12,4,6,7,0,0,sofascore.com,Argentina,CONMEBOL,Jordan,Group Stage,False,W,1,Win,0,3,25.0
+68,2026-06-27,1,39,38,3,3,1.44,1.62,Regular,0,50,10,3,3,7,3,2,sofascore.com,Austria,UEFA,Algeria,Group Stage,False,D,0,Not win,0,3,30.0
+69,2026-06-28,1,41,44,0,0,0.73,1.62,Regular,0,45,13,2,2,6,2,6,sofascore.com,Portugal,UEFA,Colombia,Group Stage,False,D,0,Not win,0,0,0.0
+70,2026-06-28,1,43,42,1,3,0.2,2.35,Regular,0,36,3,1,4,16,1,1,sofascore.com,Uzbekistan,AFC,Congo DR,Group Stage,False,L,0,Not win,0,1,33.33333333333333
+71,2026-06-28,1,45,48,2,0,1.39,0.69,Regular,0,67,17,6,7,13,4,2,sofascore.com,England,UEFA,Panama,Group Stage,False,W,1,Win,0,2,11.76470588235294
+72,2026-06-28,1,47,46,1,2,0.74,0.42,Regular,0,47,6,1,2,13,2,2,sofascore.com,Ghana,CAF,Croatia,Group Stage,False,L,0,Not win,0,1,16.666666666666664
+73,2026-06-29,2,5,2,1,0,1.32,0.13,Regular,0,42,12,7,4,16,0,1,sofascore.com,Canada,CONCACAF,South Africa,Round of 32,True,W,1,Win,0,1,8.333333333333332
+74,2026-06-29,2,22,9,1,2,0.23,1.69,Regular,0,31,5,2,2,13,0,4,sofascore.com,Japan,AFC,Brazil,Round of 32,True,L,0,Not win,0,1,20.0
+75,2026-06-30,2,14,17,1,1,0.42,0.72,Penalties,0,24,7,3,6,12,1,6,sofascore.com,Paraguay,CONMEBOL,Germany,Round of 32,True,D,0,Not win,0,1,14.285714285714285
+76,2026-06-30,2,10,21,1,1,1.4,0.23,Penalties,0,70,11,5,8,15,0,1,sofascore.com,Morocco,CAF,Netherlands,Round of 32,True,D,0,Not win,0,1,9.090909090909092
+77,2026-06-30,2,36,19,2,1,2.02,1.15,Regular,0,48,9,3,3,7,2,4,sofascore.com,Norway,UEFA,Côte d'Ivoire,Round of 32,True,W,1,Win,0,2,22.22222222222222
+78,2026-07-01,2,23,33,0,3,0.67,3.17,Regular,0,39,8,3,1,10,1,9,sofascore.com,Sweden,UEFA,France,Round of 32,True,L,0,Not win,0,0,0.0
+79,2026-07-01,2,20,1,0,2,0.73,1.02,Regular,0,52,7,1,8,14,1,1,sofascore.com,Ecuador,CONMEBOL,Mexico,Round of 32,True,L,0,Not win,0,0,0.0
+80,2026-07-01,2,42,45,1,2,0.76,2.04,Regular,0,40,7,2,3,12,4,5,sofascore.com,Congo DR,CAF,England,Round of 32,True,L,0,Not win,0,1,14.285714285714285
+81,2026-07-02,2,34,25,2,3,3.58,1.74,AET,0,48,19,5,2,12,2,2,sofascore.com,Senegal,CAF,Belgium,Round of 32,True,L,0,Not win,0,2,10.526315789473683
+82,2026-07-02,2,6,13,0,2,0.25,0.92,Regular,0,52,10,3,3,13,0,0,sofascore.com,Bosnia and Herzegovina,UEFA,USA,Round of 32,True,L,0,Not win,0,0,0.0
+83,2026-07-03,2,39,29,0,3,0.32,2.84,Regular,0,36,5,0,0,15,5,6,sofascore.com,Austria,UEFA,Spain,Round of 32,True,L,0,Not win,0,0,0.0
+84,2026-07-03,2,46,41,1,2,1.34,2.18,Regular,0,38,13,7,5,11,4,1,sofascore.com,Croatia,UEFA,Portugal,Round of 32,True,L,0,Not win,0,1,7.6923076923076925
+85,2026-07-03,2,38,8,0,2,0.73,2.52,Regular,0,55,8,2,2,12,2,3,sofascore.com,Algeria,CAF,Switzerland,Round of 32,True,L,0,Not win,0,0,0.0
+86,2026-07-04,2,26,15,1,1,1.36,0.87,Penalties,0,58,16,5,6,12,1,2,sofascore.com,Egypt,CAF,Australia,Round of 32,True,D,0,Not win,0,1,6.25
+87,2026-07-04,2,30,37,2,3,0.46,2.16,AET,0,36,16,5,3,13,1,8,sofascore.com,Cabo Verde,CAF,Argentina,Round of 32,True,L,0,Not win,0,2,12.5
+88,2026-07-04,2,47,44,0,1,0.26,2.19,Regular,0,39,8,0,2,9,0,7,sofascore.com,Ghana,CAF,Colombia,Round of 32,True,L,0,Not win,0,0,0.0
+89,2026-07-04,3,33,14,1,0,1.8,0.3,Regular,0,76,15,5,12,11,0,1,sofascore.com,France,UEFA,Paraguay,Round of 16,True,W,1,Win,0,1,6.666666666666667
+90,2026-07-04,3,10,5,3,0,1.2,0.8,Regular,0,50,5,4,1,14,3,3,sofascore.com,Morocco,CAF,Canada,Round of 16,True,W,1,Win,0,3,60.0
+91,2026-07-05,3,36,9,2,1,1.05,2.61,Regular,0,66,9,5,5,6,1,4,sofascore.com,Norway,UEFA,Brazil,Round of 16,True,W,1,Win,0,2,22.22222222222222
+92,2026-07-06,3,45,1,3,2,1.61,1.88,Regular,0,33,6,5,2,7,0,3,sofascore.com,England,UEFA,Mexico,Round of 16,True,W,1,Win,0,3,50.0
+93,2026-07-06,3,29,41,1,0,1.42,0.85,Regular,0,56,15,6,7,9,2,3,sofascore.com,Spain,UEFA,Portugal,Round of 16,True,W,1,Win,0,1,6.666666666666667
+94,2026-07-07,3,25,13,4,1,2.3,1.05,Regular,0,58,17,8,6,10,2,2,sofascore.com,Belgium,UEFA,USA,Round of 16,True,W,1,Win,0,4,23.52941176470588
+95,2026-07-07,3,26,37,2,3,1.1,2.15,Regular,0,39,9,4,3,14,1,4,sofascore.com,Egypt,CAF,Argentina,Round of 16,True,L,0,Not win,0,2,22.22222222222222
+96,2026-07-07,3,44,8,0,0,0.85,0.7,Regular,0,52,13,4,6,11,2,3,sofascore.com,Colombia,CONMEBOL,Switzerland,Round of 16,True,D,0,Not win,0,0,0.0
+97,2026-07-09,4,10,33,0,2,0.45,1.8,Regular,0,41,7,2,3,12,2,4,sofascore.com,Morocco,CAF,France,Quarter-finals,True,L,0,Not win,0,0,0.0
+98,2026-07-10,4,25,29,1,2,1.15,1.9,Regular,0,43,10,4,4,13,1,5,sofascore.com,Belgium,UEFA,Spain,Quarter-finals,True,L,0,Not win,0,1,10.0
+99,2026-07-11,4,45,36,2,1,0.96,0.77,AET,0,58,14,5,6,10,2,2,sofascore.com,England,UEFA,Norway,Quarter-finals,True,W,1,Win,0,2,14.285714285714285
+100,2026-07-12,4,8,37,1,3,0.53,2.0,AET,0,37,8,2,3,14,1,5,sofascore.com,Switzerland,UEFA,Argentina,Quarter-finals,True,L,0,Not win,0,1,12.5
+101,2026-07-14,5,29,33,2,0,1.63,0.3,Regular,0,59,15,6,8,9,2,2,sofascore.com,Spain,UEFA,France,Semi-finals,True,W,1,Win,0,2,13.333333333333334
+102,2026-07-15,5,37,45,2,1,1.8,0.54,Regular,0,53,13,5,6,10,2,3,sofascore.com,Argentina,CONMEBOL,England,Semi-finals,True,W,1,Win,0,2,15.384615384615385
+103,2026-07-18,6,45,33,6,4,2.88,2.88,Regular,0,50,21,11,7,12,2,5,sofascore.com,England,UEFA,France,Third-place match,True,W,1,Win,0,6,28.57142857142857
+104,2026-07-19,7,37,29,0,1,0.88,1.42,AET,0,46,9,3,4,13,1,4,sofascore.com,Argentina,CONMEBOL,Spain,Final,True,L,0,Not win,0,0,0.0

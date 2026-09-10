@@ -1,0 +1,19 @@
+Variable,Description,Type,Unit,Role
+match_id,Match identifier (1-104),Categorical ID,-,Key
+team_name,Team,Categorical,-,Key
+opponent_name,Opponent,Categorical,-,Context
+stage_name,Tournament stage,Categorical,-,Context/moderator
+is_knockout,Knockout stage flag,Binary,0/1,Moderator
+goals_for,Goals scored (incl. opponent own goals),Discrete,goals,Outcome/context
+goals_against,Goals conceded,Discrete,goals,Context
+result,Match result in play (90min/ET),Categorical,W/D/L,Grouping (raw)
+win,"1 = won in play, 0 = draw or loss",Binary,0/1,Grouping variable
+possession_pct,Ball possession,Continuous,%,DV Task 1
+fouls,Fouls committed,Discrete,count,DV Task 2
+goals_from_play,Goals excluding opponent own goals,Discrete,goals,Task 3 numerator
+total_shots,Total shots attempted,Discrete,count,Task 3 denominator
+conversion_rate,goals_from_play / total_shots x 100,Continuous,%,DV Task 3
+xg,Expected goals created,Continuous,xG,DV Task 4
+shots_on_target,Shots on target,Discrete,count,Heatmap/context
+corners,Corner kicks,Discrete,count,Heatmap/context
+data_source,Statistics provider for this row,Categorical,-,Provenance
